@@ -6,7 +6,7 @@ const SettingsPage = () => {
                     <h3 class="text-lg font-medium leading-6 text-gray-900 mb-6">Profile Information</h3>
                     <div class="flex items-center space-x-reverse space-x-6 mb-8">
                         <div class="relative">
-                            <img class="h-20 w-20 object-cover rounded-full border-4 border-indigo-100" src="../images/IMG_9641.jpg" alt="Profile">
+                            <img class="h-20 w-20 object-cover rounded-full border-4 border-indigo-100" src="/images/IMG_9641.jpg" alt="Profile">
                             <button class="absolute bottom-0 right-0 bg-indigo-600 text-white p-1 rounded-full hover:bg-indigo-700">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M23 19a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h4l2-3h6l2 3h4a2 2 0 0 1 2 2z"></path><circle cx="12" cy="13" r="4"></circle></svg>
                             </button>
